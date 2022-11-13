@@ -2,7 +2,7 @@
 An assignment tracker built with vanilla JavaScript
 
 ## Technologies
-- "HTML", "CSS", "JavaScript"
+- HTML,CSS,Java-Script
 
 ## Developer tool
 - Vs-Code IDE
