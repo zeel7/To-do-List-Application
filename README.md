@@ -1,5 +1,5 @@
-# periodically
-An assignment tracker built with vanilla JavaScript
+# To-do List Web Application
+An assignment tracker built with JavaScript
 
 ## Technologies
 - HTML, CSS, Java-Script
