@@ -1,5 +1,5 @@
 # To-do List Web Application
-An assignment tracker built with JavaScript
+An assigment tracker to keep track of all the things you need to do. Tasks are automatically sorted by due date and allow for editing of them later on. Also includes a multitude of themes to choose from!
 
 ## Technologies
 - HTML, CSS, Java-Script
